@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustaNewGuyinGitHub
-- 👀 I’m interested in Network, Security and Hacking
-- 🌱 I’m currently learning Network. Other two are in Pipeline.
+- 👀 I’m interested in Full Stack Python Development.
+- 🌱 I’m currently learning Django, MySQL and HTMl. Flask, Pyramid, CSS, JavaScript and ReactJS are in Pipeline.
 - 💞️ I’m looking to collaborate on any of the above.
 
 <!---
